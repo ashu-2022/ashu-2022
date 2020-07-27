@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python, Machine Lerning related stuff
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashutosh-pandit-2022/)
-- ⚡ Fun fact: I make same website using different framework
+
 
