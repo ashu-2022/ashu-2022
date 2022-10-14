@@ -7,7 +7,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Linkedin style="margin-bottom: 5px;" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashu-2022&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/ashu-2022?label=Follow&style=social" alt="followers" /></p>
 
 - 🔭 I’m currently participating in as much Coding Contests as I can
 - 🌱 I’m currently learning Machine Learning, Backend Web
