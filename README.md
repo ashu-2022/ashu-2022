@@ -15,4 +15,3 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashutosh-pandit-2022/)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashu-2022)](https://git.io/streak-stats)
