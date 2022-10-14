@@ -14,4 +14,4 @@
 - 💬 Ask me about Python, Machine Lerning related stuff
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashutosh-pandit-2022/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-2022&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
