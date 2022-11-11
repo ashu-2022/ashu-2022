@@ -25,4 +25,3 @@
 
 <a href="https://github.com/ashu-2022"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashu-2022&theme=dark&show_icons=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-2022&theme=dark&layout=compact" /> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-2022&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
