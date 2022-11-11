@@ -9,8 +9,9 @@
 
 
 - 🔭 I’m currently working on React Project.
+- 👀 I’m passionate about Web Development.
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Anything related to FullStack Development
+- 💬 Ask me about Anything related to FullStack Development Stuff
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashutosh-pandit-2022/)
 
 
