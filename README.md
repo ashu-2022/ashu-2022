@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently working on React Project.
+- 🔭 I’m currently working on Next.js Project.
 - 👀 I’m passionate about Web Development.
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Anything related to FullStack Development Stuff
